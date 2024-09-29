@@ -80,4 +80,4 @@ cv2.destroyAllWindows()
 
 
 
-#C:\Users\Shweta Tyagi\Computer Vision Project outputs
+# example of path - C:\Users\yourUsername\Computer Vision Project outputs\
